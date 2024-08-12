@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository provides a series of Python scripts demonstrating how to visualizesimple salary data for Machine Learning Engineers, Data Scientists, and Computer Vision beginners using Matplotlib. The code snippets explore various Matplotlib features, including plot styling, labeling, adding legends, and using different visual themes.
+This repository provides a series of Python scripts demonstrating how to visualize simple salary data for Machine Learning, Data Analysis, and Computer Vision beginners using Matplotlib. The code snippets explore various Matplotlib features, including plot styling, labeling, adding legends, and using different visual themes.
 
 **Table of Contents**
 
